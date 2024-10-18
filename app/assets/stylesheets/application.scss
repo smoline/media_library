@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+ @import 'navbar';
+
+ /* Set the background color of the page to black */
+ body {
+   background-color: black;
+   color: white;
+   /* Optional: Set text color to white for better contrast */
+ }
